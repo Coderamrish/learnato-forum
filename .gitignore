@@ -1,0 +1,11 @@
+echo "node_modules/
+.env
+.env.example
+dist/
+build/
+Dockerfile
+docker-compose.yml
+*.log
+.vscode/
+.DS_Store
+" > .gitignore
